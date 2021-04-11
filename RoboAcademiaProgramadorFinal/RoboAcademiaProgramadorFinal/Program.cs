@@ -391,7 +391,7 @@ namespace Robo
             }
             Console.WriteLine("Legenda:");
             Console.WriteLine("'O' é a posição do robo 1");
-            Console.WriteLine("'o' é a para onde o robo 1 está olhando\n");
+            Console.WriteLine("'o' é a para onde o robo 1 está olhando");
             Console.WriteLine("'X' é a posição do robo 2");
             Console.WriteLine("'x' é a para onde o robo 2 está olhando\n");
 
@@ -478,7 +478,7 @@ namespace Robo
                 {
                     try 
                     {
-                        if (Convert.ToInt32(pedaco) < posicaoLimiteY)
+                        if (Convert.ToInt32(pedaco) <= posicaoLimiteY)
                         qtdPedaco++;
                     }
                     catch 
@@ -494,7 +494,7 @@ namespace Robo
                 {
                     try
                     {
-                        if (Convert.ToInt32(pedaco) < posicaoLimiteX)
+                        if (Convert.ToInt32(pedaco) <= posicaoLimiteX)
                         qtdPedaco++;
                     }
                     catch 
