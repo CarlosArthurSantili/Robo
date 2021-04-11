@@ -1,0 +1,7 @@
+C:\Users\Carlos\source\repos\RoboAcademiaProgramadorFinal\RoboAcademiaProgramadorFinal\bin\Debug\RoboAcademiaProgramadorFinal.exe.config
+C:\Users\Carlos\source\repos\RoboAcademiaProgramadorFinal\RoboAcademiaProgramadorFinal\bin\Debug\RoboAcademiaProgramadorFinal.exe
+C:\Users\Carlos\source\repos\RoboAcademiaProgramadorFinal\RoboAcademiaProgramadorFinal\bin\Debug\RoboAcademiaProgramadorFinal.pdb
+C:\Users\Carlos\source\repos\RoboAcademiaProgramadorFinal\RoboAcademiaProgramadorFinal\obj\Debug\RoboAcademiaProgramadorFinal.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\RoboAcademiaProgramadorFinal\RoboAcademiaProgramadorFinal\obj\Debug\RoboAcademiaProgramadorFinal.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\RoboAcademiaProgramadorFinal\RoboAcademiaProgramadorFinal\obj\Debug\RoboAcademiaProgramadorFinal.exe
+C:\Users\Carlos\source\repos\RoboAcademiaProgramadorFinal\RoboAcademiaProgramadorFinal\obj\Debug\RoboAcademiaProgramadorFinal.pdb
